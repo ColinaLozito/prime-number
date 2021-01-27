@@ -24,6 +24,13 @@ In order to run the project you need to do:
 2. run `npm install` to install the node dependencies
 3. run `npm start` to launch the app (http://localhost:3000)
 
+## Features that could be implemented
+
+- Search bar for the table
+- Sort by Number or times used
+- Display only prime numbers in the table
+- Display a message when the number has been entered X times
+
 ## Screens
 
 ![screen 1](https://user-images.githubusercontent.com/18740032/106064590-6820c280-60fa-11eb-97ac-610b14d45eb1.PNG)
