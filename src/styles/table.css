@@ -1,0 +1,46 @@
+.table-wrapper {
+  width: 100%;
+  max-height: 40%;
+  max-width: 320px;
+  color: aqua;
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border-radius: 20px;
+  overflow-y: auto;
+}
+
+.table-row {
+  width: 100%;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid aqua;
+}
+
+.table-row .table-column {
+  width: 33%;
+}
+
+.table-row .first {
+  text-align: left;
+}
+
+.table-row .middle {
+  text-align: center;
+}
+
+.table-row .last {
+  text-align: right;
+}
+
+.table-row .is-prime {
+  color: #7be27b;
+  font-weight: bold;
+}
+
+.table-row .is-not-prime {
+  color: #ff0000;
+  font-weight: bold;
+}

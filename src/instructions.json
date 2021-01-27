@@ -1,0 +1,11 @@
+{
+    "title": "Instructions",
+    "description":"In order to proceed you need to have in mind the following:",
+    "points":[
+        "Only positive integers number allowed",
+        "The inputs will be stored in the browser local store",
+        "Once there is data entered you will be able to see the rest of the features",
+        "Also once there is data you will be able to erease the storage",
+        "There is a table with the history is the numbers entered"
+    ]
+}

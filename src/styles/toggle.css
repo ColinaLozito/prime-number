@@ -1,0 +1,10 @@
+.toggle-wrapper {
+  width: 120px;
+  height: 40px;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+  color: aqua;
+}

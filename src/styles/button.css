@@ -1,0 +1,27 @@
+.button {
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: aqua;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  border-style: solid;
+  border-width: 3px;
+  border-color: transparent;
+  text-decoration: none;
+  color: #065fc5;
+}
+
+.button-disabled {
+  background-color: gray;
+  color: white;
+  cursor: default;
+}
+
+.button-warn {
+  background-color: red;
+  color: white;
+}
